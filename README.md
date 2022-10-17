@@ -20,6 +20,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PostScript](#postscript)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -63,6 +64,7 @@
 
 ## C++ 
 
+- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
 - [r44cx/x64dbg](https://github.com/r44cx/x64dbg) - An open-source x64/x32 debugger for windows.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -356,8 +358,14 @@
 - [sectsect/wp-instagram-json](https://github.com/sectsect/wp-instagram-json) - 📄 Generate JSON file with object data returned from Instagram API (for Sandbox Mode). Also upload the JSON file to AWS S3 (optional).
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
 
+## PostScript 
+
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 ## Python 
 
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
@@ -511,7 +519,6 @@
 
 ## TeX 
 
-- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [TBD54566975/tbdex-whitepaper](https://github.com/TBD54566975/tbdex-whitepaper) - 
 
 ## TypeScript 
