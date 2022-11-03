@@ -1,5 +1,6 @@
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -21,6 +22,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PostScript](#postscript)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -36,10 +38,14 @@
 - [Vala](#vala)
 - [Vue](#vue)
 
+## Batchfile 
+
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
+
 ## C 
 
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -54,6 +60,7 @@
 
 ## C# # 
 
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
@@ -64,6 +71,7 @@
 
 ## C++ 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
 - [r44cx/x64dbg](https://github.com/r44cx/x64dbg) - An open-source x64/x32 debugger for windows.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -99,6 +107,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 - [pvtl/docker-dev](https://github.com/pvtl/docker-dev) - A local Docker Environment for building PHP applications 🔨
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -110,6 +119,10 @@
 
 ## Go 
 
+- [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -128,14 +141,14 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [rssnyder/discord-stock-ticker](https://github.com/rssnyder/discord-stock-ticker) - Add live stock & crypto prices to your discord sidebar.
 - [ava-labs/coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -147,8 +160,8 @@
 
 ## HTML 
 
+- [ficool2/HammerPlusPlus-Website](https://github.com/ficool2/HammerPlusPlus-Website) - The website for Hammer++
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
 - [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 - [groupe-sii/cheat-sheets](https://github.com/groupe-sii/cheat-sheets) - A collection of cheat sheets usefull for web development
@@ -178,12 +191,13 @@
 
 ## JavaScript 
 
+- [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
@@ -269,6 +283,8 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
@@ -297,7 +313,9 @@
 
 ## Others 
 
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [BiGilSoft/WindowTop](https://github.com/BiGilSoft/WindowTop) - Set window on top, make it dark, transparent and more
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
@@ -312,7 +330,7 @@
 - [denisnazarov/awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [orhun/orhun](https://github.com/orhun/orhun) - 
+- [orhun/orhun](https://github.com/orhun/orhun) - My GitHub profile README.md ⭐
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
@@ -362,13 +380,20 @@
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
+## PowerShell 
+
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
 ## Python 
 
+- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
+- [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - A Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell.
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -389,7 +414,6 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [AlexMKX/mrvpn](https://github.com/AlexMKX/mrvpn) - Multi-Route VPN
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Pymmdrza/xBrainWallet](https://github.com/Pymmdrza/xBrainWallet) - Brain Wallet passphares and private key crack woth python hack
 - [codingo/VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, work around wildcards, aliases and dynamic default pages.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -437,7 +461,7 @@
 - [r44cx/freqtrade-mandala](https://github.com/r44cx/freqtrade-mandala) - Free, open source crypto trading bot
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [Mandala-Exchange/hummingbot](https://github.com/Mandala-Exchange/hummingbot) - Hummingbot: a client for crypto market making
-- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
 - [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet collider that brute forces random wallet addresses
@@ -500,7 +524,7 @@
 
 ## Solidity 
 
-- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry.
+- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [degenicus/scream-leverage](https://github.com/degenicus/scream-leverage) - A single staking leverage farming strategy for Scream
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [FairTokenProject/contracts](https://github.com/FairTokenProject/contracts) - 
@@ -511,6 +535,7 @@
 
 ## Swift 
 
+- [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -523,6 +548,9 @@
 
 ## TypeScript 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [coral-xyz/backpack](https://github.com/coral-xyz/backpack) - 🎒 Next level crypto wallet
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
@@ -540,7 +568,7 @@
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
-- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Web Framework, based on Vue 3.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -574,7 +602,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions. Data provided by OpenWeather.
+- [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
@@ -599,7 +627,6 @@
 - [DeFUCC/gun-vue](https://github.com/DeFUCC/gun-vue) - Vite + Vue + Gun p2p crypto graph db toolkit. Vue 3 composables, components, relay server, demo and more.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vite, Vue3, Tailwind CSS (single-page app)
 - [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue.js component for ApexCharts
 - [remcoplasmeyer/flowy-vue](https://github.com/remcoplasmeyer/flowy-vue) - Vue Flowy makes creating flowchart or hierarchy chart functionality an easy task. Build automation software, mind mapping tools, organisation charts, or simple programming platforms in minutes by impl
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
